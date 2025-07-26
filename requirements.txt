@@ -1,6 +1,7 @@
 streamlit
-langchain
-faiss-cpu
 openai
+langchain>=0.1.14
+langchain-community>=0.0.10
+faiss-cpu
+python-dotenv
 google-generativeai
-unstructured
