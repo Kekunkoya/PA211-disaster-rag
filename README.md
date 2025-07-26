@@ -1,4 +1,4 @@
-# 🧠 PA 211 Disaster Help RAG App
+# PA 211 Disaster Help RAG App
 
 **A Retrieval-Augmented Generation (RAG) Streamlit app to support disaster response using PA 211 services.**
 
@@ -8,18 +8,18 @@
 
 ---
 
-## 📦 Features
+## Features
 
-- 🔍 Semantic search across FEMA, Ready.gov, and PA 211 docs
-- 🧠 Query transformation for localized and relevant results
-- 🔗 OpenAI + Gemini support for response generation
-- 💬 Streamlit UI for live demo
-- 📊 User feedback logging
-- 🗂 Modular RAG pipeline (chunking, retrieval, generation)
+-  Semantic search across FEMA, Ready.gov, and PA 211 docs
+-  Query transformation for localized and relevant results
+- OpenAI + Gemini support for response generation
+- Streamlit UI for live demo
+- User feedback logging
+- Modular RAG pipeline (chunking, retrieval, generation)
 
 ---
 
-## 🚀 How to Use (Locally)
+##  How to Use (Locally)
 
 ```bash
 git clone https://github.com/yourusername/pa211-disaster-rag.git
